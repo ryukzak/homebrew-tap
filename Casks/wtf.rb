@@ -1,6 +1,6 @@
 cask "wtf" do
-  version "0.0.2"
-  sha256 "452d7413d0fb1bc635816da315d27c1283e9a2a0aeee6187231fee71c3c868d3"
+  version "0.0.3"
+  sha256 "caf0d58a849ba15d027148c07197841c421580136c75adc593ec6c373939eaac"
 
   url "https://github.com/ryukzak/wtf/archive/refs/tags/v#{version}.tar.gz"
   name "wtf"
